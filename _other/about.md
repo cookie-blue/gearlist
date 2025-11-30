@@ -1,18 +1,5 @@
 ---
-layout: home
-title: Overview
-permalink: /
-order: 1
+title: About
 ---
 
 Collection of gear products to help new gearheads. Feel free to suggest Products, Categories or Links on [GitHub](https://github.com/cookie-blue/gearlist/issues/new).
-
-[Workwear](workwear)
-
-[Firefighting](firefighting)
-
-[Puppy](puppy)
-
-[Tactical](tactical)
-
-[Aviation](aviation)

@@ -9,6 +9,9 @@ collections:
     output: true
     sort_by: order
     permalink: /:title
+  other:
+    output: true
+    permalink: /:title
 
 toc:
   enabled: true

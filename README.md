@@ -18,6 +18,11 @@ Collection of gear products to help new gearheads. Feel free to suggest Products
 
 * [Rosenbauer Protective Clothing](https://www.rosenbauer.com/en/products/equipment/protective-clothing)
 
+## Puppy
+
+* [Mr. S Leather Puppy Hoods (Neoprene)](https://www.mr-s-leather.com/puppy-park/neoprene-puppy-hoods)
+* [Mr. S Leather Puppy Hoods (Leather)](https://www.mr-s-leather.com/puppy-park/leather-puppy-hoods)
+
 ## Tactical
 
 * [MSA Helmets](https://de.msasafety.com/Head-Protection/Combat%2C-Tactical-%26-Riot-Control/c/11202)

@@ -4,11 +4,19 @@ title: GearList
 longtitle: GearList
 author: Cookie Blue
 
+ordered_collections:
+  - pages
+  - other
+
 collections:
   pages:
     output: true
-    sort_by: order
     permalink: /:title
+    order:
+      - workwear.md
+      - firefighting.md
+      - puppy.md
+      - tactical.md
   other:
     output: true
     permalink: /:title

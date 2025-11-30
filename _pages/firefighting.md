@@ -1,6 +1,5 @@
 ---
 title: Firefighting
-order: 2
 ---
 
 ## Helmets

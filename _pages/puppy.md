@@ -1,6 +1,5 @@
 ---
 title: Puppy
-order: 3
 ---
 
 * [Mr. S Leather Puppy Hoods (Neoprene)](https://www.mr-s-leather.com/puppy-park/neoprene-puppy-hoods)

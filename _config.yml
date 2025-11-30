@@ -1,0 +1,23 @@
+remote_theme: sighingnow/jekyll-gitbook
+
+title: GearList
+longtitle: GearList
+author: Cookie Blue
+
+collections:
+  pages:
+    output: true
+    sort_by: order
+    permalink: /:title
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

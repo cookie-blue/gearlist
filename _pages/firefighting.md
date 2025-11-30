@@ -10,3 +10,7 @@ title: Firefighting
 ## Clothing
 
 * [Rosenbauer Protective Clothing](https://www.rosenbauer.com/en/products/equipment/protective-clothing)
+
+## Shoes
+
+* [HAIX](https://www.haix.de/fire/)

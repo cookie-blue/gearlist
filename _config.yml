@@ -3,6 +3,7 @@ remote_theme: sighingnow/jekyll-gitbook
 title: GearList
 longtitle: GearList
 author: Cookie Blue
+github_username: cookie-blue
 
 ordered_collections:
   - pages
@@ -25,8 +26,6 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
-
-sharing: false
 
 defaults:
   -

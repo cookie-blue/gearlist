@@ -1,5 +1,5 @@
 "sharing": {
     "github": true,
-    "github_link": "https://github.com/{{ site.github_username }}",
-    "all": ["github"]
+    "github_link": "https://github.com/cookie-blue/gearlist",
+    "all": []
 },

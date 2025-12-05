@@ -1,12 +1,5 @@
-  "sharing": {
-    "facebook": false,
-    "twitter": false,
-    "weibo": false,
-    "qq": false,
-    "google": false,
-    "linkedin": false,
-    "hatenaBookmark": false,
-    "instapaper": false,
-    "pocket": false,
-    "stumbleupon": false
-  }
+"sharing": {
+    "github": true,
+    "github_link": "https://github.com/{{ site.github_username }}",
+    "all": ["github"]
+},

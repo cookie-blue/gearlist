@@ -11,6 +11,7 @@ title: Firefighting
 
 * [Rosenbauer Protective Clothing](https://www.rosenbauer.com/en/products/equipment/protective-clothing)
 * [SIOEN Firefighter Clothing](https://sioenfire.com/)
+* [Fireliner](https://www.fireliner.ch/de/produkte/feuerwehr)
 
 ## Shoes
 

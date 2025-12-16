@@ -4,6 +4,7 @@ title: Workwear
 
 * [STRAUSS e.s.motion 2020](https://www.strauss.com/de/de/e-s-motion-2020/) (or other collections) "the classic"
 * [Helly Hansen Workwear](https://www.hhworkwear.com/de_de_ww)
+* [SYNQ Workwear](https://synqworkwear.com/)
 
 ## Hi-Vis
 

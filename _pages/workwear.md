@@ -17,3 +17,4 @@ title: Workwear
 * [HAIX Shoes](https://www.haix.de/workwear/)
 * [Helly Hansen Men Footwear](https://www.hhworkwear.com/de_de_ww/men/footwear)
 * [Helly Hansen Women Footwear](https://www.hhworkwear.com/de_de_ww/women/footwear)
+* [Dunlop Protective Footwear](https://www.dunlopboots.com)

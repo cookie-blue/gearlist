@@ -5,7 +5,8 @@ permalink: /
 order: 1
 ---
 
-Collection of gear products to help new gearheads. Feel free to suggest Products, Categories or Links on [GitHub](https://github.com/cookie-blue/gearlist/issues/new).
+Collection of gear products to help new gearheads.
+Feel free to suggest Products, Categories or Links directly on [GitHub](https://github.com/cookie-blue/gearlist/issues/new) or [write me personally](https://cookie.blue/).
 
 [Workwear](workwear)
 

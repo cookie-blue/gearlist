@@ -29,3 +29,7 @@ title: Firefighting
 ## Respiratory-Masks
 
 * [Dräger](https://www.draeger.com/de_de/Productfinder/Respiratory-Protection/Respiratory-Masks#products)
+
+## Gloves
+
+* [Seiz](https://www.seiz.de/shop/einsatzhandschuhe)

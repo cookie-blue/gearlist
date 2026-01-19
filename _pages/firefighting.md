@@ -17,6 +17,7 @@ title: Firefighting
 * [Fireliner](https://www.fireliner.ch/de/produkte/feuerwehr)
 * [VIKING FIRE](https://www.viking-fire.com/)
 * [MSA](https://de.msasafety.com/Firefighter-Protective-Clothing/c/124)
+* [DEVA](https://www.deva-fm.cz/en/firefighters/)
 
 ## Shoes
 

@@ -22,15 +22,3 @@ title: Firefighting
 ## Shoes
 
 * [HAIX](https://www.haix.de/fire/)
-
-## Hazmat suit
-
-* [Dräger](https://www.draeger.com/de_de/Productfinder/Hazmat-Suits#products)
-
-## Respiratory-Masks
-
-* [Dräger](https://www.draeger.com/de_de/Productfinder/Respiratory-Protection/Respiratory-Masks#products)
-
-## Gloves
-
-* [Seiz](https://www.seiz.de/shop/einsatzhandschuhe)

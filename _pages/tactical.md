@@ -8,4 +8,5 @@ title: Tactical
 * [Guardian Angel Safety Light](https://www.guardianangeldevices.com/)
 * [EvolutionGear Tactical Gear](https://www.egtactical.com/)
 * [Gear Keeper](https://www.gearkeeper.com/)
-* [Klick Fast](https://www.klickfast.com/)
+* [Peter Jones](https://www.peterjonesilg.co.uk/)
+  * [Klick Fast](https://www.klickfast.com/)

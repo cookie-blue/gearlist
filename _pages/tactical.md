@@ -7,3 +7,5 @@ title: Tactical
 * [Barska Tactical Gear](https://shop.barska.com/collections/loaded-gear) (Bags, Vests etc.)
 * [Guardian Angel Safety Light](https://www.guardianangeldevices.com/)
 * [EvolutionGear Tactical Gear](https://www.egtactical.com/)
+* [Gear Keeper](https://www.gearkeeper.com/)
+* [Klick Fast](https://www.klickfast.com/)

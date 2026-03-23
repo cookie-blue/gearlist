@@ -13,6 +13,7 @@ title: Workwear
 * [Helly Hansen Men Hi-Vis](https://www.hhworkwear.com/de_de_ww/men/shop-by-feature/visibility)
 * [Helly Hansen Women Hi-Vis](https://www.hhworkwear.com/de_de_ww/women/shop-by-feature/visibility)
 * [MASCOT Hi-Vis](https://www.mascot.de/de/warnschutzkleidung)
+* [GSG Schutzkleidung](https://www.gsg-schutzkleidung.de)
 
 ## Shoes
 

@@ -19,6 +19,11 @@ title: Firefighting
 * [MSA](https://de.msasafety.com/Firefighter-Protective-Clothing/c/124)
 * [DEVA](https://www.deva-fm.cz/en/firefighters/)
 * [seamtex](https://seamtex.at/)
+
 ## Shoes
 
 * [HAIX](https://www.haix.de/fire/)
+
+## Shops
+
+* [Helpi](https://www.helpishop.de/)

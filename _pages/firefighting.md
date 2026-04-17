@@ -24,6 +24,7 @@ title: Firefighting
 ## Shoes
 
 * [HAIX](https://www.haix.de/fire/)
+* [BOSP](https://bosp.de)
 
 ## Shops
 

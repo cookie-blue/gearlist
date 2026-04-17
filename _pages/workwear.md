@@ -22,3 +22,4 @@ title: Workwear
 * [Helly Hansen Women Footwear](https://www.hhworkwear.com/de_de_ww/women/footwear)
 * [Dunlop Protective Footwear](https://www.dunlopboots.com)
 * [MASCOT Footwear](https://www.mascot.de/de/schuhwerk)
+* [BOSP](https://bosp.de)

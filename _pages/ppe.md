@@ -17,3 +17,4 @@ title: PPE
 ## Gloves
 
 * [Seiz](https://www.seiz.de/shop/)
+* [Rosenbauer Firefighting](https://www.rosenbauer.com/en/products/equipment/protective-gloves)

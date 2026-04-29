@@ -20,6 +20,7 @@ title: Firefighting
 * [DEVA](https://www.deva-fm.cz/en/firefighters/)
 * [seamtex](https://seamtex.at/)
 * [Texport](https://www.texport.at/)
+* [S-GARD](https://www.s-gard.de/)
 
 ## Shoes
 

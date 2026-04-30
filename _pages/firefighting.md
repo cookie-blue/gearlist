@@ -4,7 +4,7 @@ title: Firefighting
 
 ## Helmets
 
-* [Rosenbauer Helmets](https://www.rosenbauer.com/en/products/equipment/firefighting-helmets)
+* [Rosenbauer](https://www.rosenbauer.com/en/products/equipment/firefighting-helmets)
 * [MSA](https://de.msasafety.com/Fire-Helmets/Fire-Helmets/c/12108)
 * [PAB](https://pab.hr/)
 * [Dräger](https://www.draeger.com/de_de/Productfinder/Head-and-Eye-Protection/Fire-Rescue-Helmets#products)

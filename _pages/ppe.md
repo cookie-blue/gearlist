@@ -8,6 +8,7 @@ title: PPE
 * [MSA](https://de.msasafety.com/Head-Protection/c/112)
 * [PAB](https://pab.hr/)
 * [PROTOS](https://www.protos.at)
+* [Dräger](https://www.draeger.com/de_de/Productfinder/Head-and-Eye-Protection/Fire-Rescue-Helmets#products)
 
 ## Hazmat
 

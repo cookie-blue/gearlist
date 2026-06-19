@@ -3,7 +3,7 @@ title: Workwear
 ---
 
 * [STRAUSS](https://www.strauss.com/)
-* [Helly Hansen Workwear](https://www.hhworkwear.com/de_de_ww)
+* [Helly Hansen Workwear](https://www.hhworkwear.com/)
 * [SYNQ Workwear](https://synqworkwear.com/)
 * [MASCOT](https://www.mascot.de/)
 * [ROFA](https://www.rofa.de/)

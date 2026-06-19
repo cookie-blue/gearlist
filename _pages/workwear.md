@@ -7,6 +7,7 @@ title: Workwear
 * [SYNQ Workwear](https://synqworkwear.com/)
 * [MASCOT](https://www.mascot.de/)
 * [ROFA](https://www.rofa.de/)
+* [BLÅKLÄDER](https://www.blaklader.de/)
 
 ## Hi-Vis
 

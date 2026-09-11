@@ -10,4 +10,5 @@ title: Tactical
 * [Gear Keeper](https://www.gearkeeper.com/)
 * [Peter Jones](https://www.peterjonesilg.co.uk/)
   * [Klick Fast](https://www.klickfast.com/)
-* [BOSP Shoes](https://bosp.de)
+* [BOSP Shoes](https://bosp.de/)
+* [HG Industries](https://holygrail.id/)
